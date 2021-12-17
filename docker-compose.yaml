@@ -1,0 +1,19 @@
+version: '3'
+services:
+    cube2: 
+        image: "shary1234/letscube:1"
+        container_name: cube2
+        restart: always
+    cube3: 
+        image: "shary1234/letscube:1"
+        container_name: cube3
+        ports:
+            - "2000:80"
+        environment:
+            AnotherServiceUrl: cube2
+        depends_on:
+          - cube2
+          
+          
+          
+          

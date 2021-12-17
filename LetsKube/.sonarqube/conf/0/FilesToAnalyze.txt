@@ -1,0 +1,9 @@
+﻿C:\LetsKube\LetsKube\Program.cs
+C:\LetsKube\LetsKube\Startup.cs
+C:\LetsKube\LetsKube\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\LetsKube\LetsKube\obj\Debug\netcoreapp3.1\LetsKube.AssemblyInfo.cs
+C:\LetsKube\LetsKube\appsettings.Development.json
+C:\LetsKube\LetsKube\appsettings.json
+C:\LetsKube\LetsKube\Dockerfile
+C:\LetsKube\LetsKube\Properties\launchSettings.json
+C:\LetsKube\.dockerignore
